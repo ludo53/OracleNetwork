@@ -1,0 +1,2 @@
+# OracleNetwork
+SynapseOptimized OracleNetwork for LowLatencyRouting and HighAvailabilityClustering: AlwaysOn SelfHealing Pivot featuring PredictiveAnalytics capabilities providing enterprise-grade OracleNetwork solutions
